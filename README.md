@@ -1,2 +1,2 @@
 # myporfolio22
-abou me
+about me
